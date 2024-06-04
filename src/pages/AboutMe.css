@@ -1,0 +1,28 @@
+.about-me-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  flex-wrap: wrap;
+  height: 250px;
+  width: 900px;
+  margin: 30px;
+}
+
+.myPic {
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 10px;
+}
+
+.bio {
+  margin: 50px;
+}
+
+@media screen and (max-width: 520px)  {
+  .about-me-page{
+    flex-wrap: nowrap;
+    height: 550px;
+    width: 400px;
+  }
+}

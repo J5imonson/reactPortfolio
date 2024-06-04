@@ -1,0 +1,16 @@
+.card-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  height: 550px;
+  width: 900px;
+}
+
+@media screen and (max-width: 520px)  {
+  .card-container{
+    height: auto;
+    width: auto;
+  }
+}

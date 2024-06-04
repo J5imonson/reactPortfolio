@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Weather Dashboard",
+    "liveLink": "https://j5imonson.github.io/Weather-chart/",
+    "github": "https://github.com/J5imonson/Weather-chart",
+    "img": "/assets/weather-dashboard.png"
+  },
+  {
+    "title": "Note Taker",
+    "liveLink": "https://notetaker-pw2m.onrender.com/",
+    "github": "https://github.com/J5imonson/noteTaker",
+    "img": "/assets/note-taker.png"
+  },
+  {
+    "title": "My First Blog",
+    "liveLink": "https://j5imonson.github.io/myFirstBlog/",
+    "github": "https://github.com/J5imonson/myFirstBlog",
+    "img": "/assets/myFirstBlog.png"
+  },
+  {
+    "title": "PWA Text Editor",
+    "liveLink": "https://pwatexteditor-t1sb.onrender.com/",
+    "github": "https://github.com/J5imonson/PWATextEditor.git",
+    "img": "/assets/pwa-text-editor.png"
+  },
+  {
+    "title": "PassPour",
+    "liveLink": "https://passpour-1.onrender.com/",
+    "github": "https://github.com/Kylebutcher/passpour.git",
+    "img": "/assets/passpour.png"
+  },
+  {
+    "title": "D and D RPG",
+    "liveLink": "https://j5imonson.github.io/dnd-rpg/",
+    "github": "https://github.com/J5imonson/dnd-rpg.git",
+    "img": "/assets/d-and-d-rpg.png"
+  }
+]

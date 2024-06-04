@@ -1,0 +1,34 @@
+.card {
+  border: solid black 2px;
+  height: 200px;
+  width: 250px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(3, 3, 3, 0.25);
+  background-size:cover;
+  margin: 20px;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card-title {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  text-shadow: 1px 1px 8px white;
+}
+
+.liveSite {
+  margin: 2px;
+  font-weight: 600;
+  text-shadow: 1px 1px 8px white;
+}
+
+.github {
+  margin: 2px;
+  font-weight: 600;
+  text-shadow: 1px 1px 8px white;
+}
